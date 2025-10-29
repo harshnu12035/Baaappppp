@@ -65,11 +65,27 @@ autoclean = []
 confirmer = {}
 
 STREAMI_PICS = [
-    "https://files.catbox.moe/n44bsi.jpg",
-    "https://files.catbox.moe/n44bsi.jpg",
+"https://files.catbox.moe/4q7c4w.jpg",
+    "https://files.catbox.moe/90z6sq.jpg",
+    "https://files.catbox.moe/rdfi4z.jpg",
+    "https://files.catbox.moe/6f9rgp.jpg",
+    "https://files.catbox.moe/99wj12.jpg",
+    "https://files.catbox.moe/ezpnd2.jpg",
+    "https://files.catbox.moe/e7q55f.jpg",
+    "https://files.catbox.moe/qyfsi7.jpg",
+    "https://files.catbox.moe/kbke7s.jpg",
+    "https://files.catbox.moe/7icvpu.jpg",
+    "https://files.catbox.moe/4hd77z.jpg",
+    "https://files.catbox.moe/yn7wje.jpg",
+    "https://files.catbox.moe/kifsir.jpg",
+    "https://files.catbox.moe/zi21kc.jpg",
+    "https://files.catbox.moe/z0gh23.jpg",
+    "https://files.catbox.moe/f2s4ws.jpg",
+    "https://files.catbox.moe/26nzoq.jpg",
+    "https://files.catbox.moe/fu6jk3.jpg",
 ]
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/n44bsi.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
 HELP_IMG_URL = getenv("HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://i.ibb.co/VWnm6f3f/ping.jpg")
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
