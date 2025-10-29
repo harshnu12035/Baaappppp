@@ -65,8 +65,8 @@ autoclean = []
 confirmer = {}
 
 STREAMI_PICS = [
-    "https://i.ibb.co/whgkNq6n/start-img-1.jpg",
-    "https://i.ibb.co/q32FdssH/start-img-2.jpg",
+    "https://files.catbox.moe/n44bsi.jpg",
+    "https://files.catbox.moe/n44bsi.jpg",
 ]
 
 START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/n44bsi.jpg")
