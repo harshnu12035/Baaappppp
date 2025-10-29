@@ -12,10 +12,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "oye_babyy")
-BOT_USERNAME = getenv("BOT_USERNAME", "Bubuckonifybot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Theshonaqueen")
+BOT_USERNAME = getenv("BOT_USERNAME", "Jullymusic_bot")
 BOT_NAME = getenv("BOT_NAME", "Aqia")
-ASSUSERNAME = getenv("ASSUSERNAME", "Bubuckonifybot")
+ASSUSERNAME = getenv("ASSUSERNAME", "Jullymusic_bot")
 
 #---------------------------------------------------------------
 MONGO_DB_URI = getenv("MONGO_DB_URI")
@@ -33,14 +33,14 @@ OWNER_ID = int(getenv("OWNER_ID", 7355202884))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-SOURCE = getenv("SOURCE", "t.me/Oye_babyy")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/hbbb02219-hue/Baaappppp")
+SOURCE = getenv("SOURCE", "https://files.catbox.moe/uyfhoe.mp4")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/harshnu12035/Baaappppp")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ganaasupport")
-CHAT = getenv("CHAT", "https://t.me/ganaasupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THE_SHONA_SUPPORT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+5hdg36Lda6QzM2M9")
+CHAT = getenv("CHAT", "https://t.me/+5hdg36Lda6QzM2M9")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
@@ -69,7 +69,7 @@ STREAMI_PICS = [
     "https://i.ibb.co/q32FdssH/start-img-2.jpg",
 ]
 
-START_IMG_URL = getenv("START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/n44bsi.jpg")
 HELP_IMG_URL = getenv("HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://i.ibb.co/VWnm6f3f/ping.jpg")
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
